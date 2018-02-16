@@ -15,7 +15,7 @@
 || Parameters: INDEX
 || Example: delete 1
 ||
-|| Clears address book permanently.
+|| clear: Clears address book permanently.
 || Example: clear
 ||
 || find: Finds all persons whose names contain any of the specified keywords (case-sensitive) and displays them as a list with index numbers.
